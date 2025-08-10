@@ -106,6 +106,6 @@ I have really wanted add attachment support somehow, however sadly seems like it
 
 ---
 
-## 📄 License
+## License
 
 **MIT License** - You can use, modify, and distribute freely with attribution.
